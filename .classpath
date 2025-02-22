@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="lib" path="C:/Users/skeet/Desktop/School/Workspace/apache-tomcat-8.0.9/lib/servlet-api.jar">
+	<classpathentry kind="lib" path="C:/Users/skeet/workspace/apache-tomcat-8.0.9/lib/servlet-api.jar">
 		<attributes>
 			<attribute name="javadoc_location" value="https://docs.oracle.com/javaee/7/api/"/>
 		</attributes>
