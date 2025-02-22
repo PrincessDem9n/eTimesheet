@@ -12,7 +12,7 @@
    		<!--Selenium properties-->
    		<selenium.groupId>org.seleniumhq.selenium</selenium.groupId>
 		<selenium.artifactId>selenium-java</selenium.artifactId>
-		<selenium.version>4.27.0</selenium.version>
+		<selenium.version>4.29.0</selenium.version>
 		<testng.groupId>org.testng</testng.groupId>
 		<testng.artifactId>testng</testng.artifactId>
 		<testng.version>7.10.2</testng.version>
@@ -98,6 +98,7 @@
     <artifactId>slf4j-simple</artifactId>
     <version>2.0.16</version>
 </dependency>
+<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-devtools-v133 -->
  </dependencies>
   
   <build>

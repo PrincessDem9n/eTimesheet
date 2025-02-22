@@ -5,8 +5,8 @@
     <classes>
       <class name="com.dvops.maven.eclipse.NewTest">
         <methods>
-          <include name="afterTest"/>
           <include name="testButtonPresence"/>
+          <include name="afterTest"/>
           <include name="beforeTest"/>
           <include name="checkTitle"/>
         </methods>
