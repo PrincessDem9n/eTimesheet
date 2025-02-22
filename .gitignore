@@ -1,2 +1,6 @@
-/build/
+/bin/
+*.class
+*.classpath
+*.project
+*.settings
 /target/

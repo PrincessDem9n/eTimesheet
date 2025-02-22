@@ -1,0 +1,21 @@
+# Lines starting with '#' are comments.
+# Each line is a file pattern followed by one or more owners.
+# The '*' pattern is global owners.
+#Team or user idenitifed in this file are the codeowners
+#any changes to the file types listed below required approval from the codeowner
+
+#.xml files
+#user PrincessDem9n owns all the .xml files
+*.xml
+
+#.java files
+#user PrincessDem9n owns all the .java files
+*.java
+
+#.class files
+#user PrincessDem9n owns all the .class files
+*.class
+
+#.jsp files
+#user PrincessDem9n owns all the .jsp files
+*.jsp
